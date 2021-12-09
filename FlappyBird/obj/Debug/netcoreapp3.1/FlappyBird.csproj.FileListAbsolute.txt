@@ -1,0 +1,16 @@
+C:\Users\opilane\source\repos\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.exe
+C:\Users\opilane\source\repos\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.deps.json
+C:\Users\opilane\source\repos\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.runtimeconfig.json
+C:\Users\opilane\source\repos\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.dll
+C:\Users\opilane\source\repos\FlappyBird\FlappyBird\bin\Debug\netcoreapp3.1\FlappyBird.pdb
+C:\Users\opilane\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.Form1.resources
+C:\Users\opilane\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.Properties.Resources.resources
+C:\Users\opilane\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.csproj.GenerateResource.cache
+C:\Users\opilane\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.AssemblyInfo.cs
+C:\Users\opilane\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.dll
+C:\Users\opilane\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.pdb
+C:\Users\opilane\source\repos\FlappyBird\FlappyBird\obj\Debug\netcoreapp3.1\FlappyBird.genruntimeconfig.cache
